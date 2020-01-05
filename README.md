@@ -13,9 +13,10 @@ MEMBUAT PACKAGE DAN MODUL BERDASARKAN TUGAS PRAKTIKUM SEBELUMNYA DENGAN STRUKTUR
 
 berikut hasilnya :
 
-![Screenshot (4)](https://user-images.githubusercontent.com/57025775/71551655-ef46c700-2a1e-11ea-856f-c8e8b8f59552.png)
+![1](https://user-images.githubusercontent.com/57025775/71777562-4840cd00-2fd4-11ea-918c-de123561dff8.jpg)
 
-![Screenshot (6)](https://user-images.githubusercontent.com/57025775/71551667-2cab5480-2a1f-11ea-9932-fdf882808a30.png)
+![2](https://user-images.githubusercontent.com/57025775/71777563-48d96380-2fd4-11ea-9f49-0e17c2620a50.jpg)
 
+![3](https://user-images.githubusercontent.com/57025775/71777564-48d96380-2fd4-11ea-808b-4fdbd0dc3c68.jpg)
 
-Terimakasih ... semoga bermanfaat 
+Terimakasih ... semoga bermanfaat :octocat:
